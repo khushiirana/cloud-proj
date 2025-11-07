@@ -32,7 +32,7 @@ const Login: React.FC = () => {
           <div className="inline-flex items-center justify-center w-16 h-16 bg-violet-100 rounded-full mb-4">
             <BookOpen className="w-8 h-8 text-violet-600" />
           </div>
-          <h1 className="text-3xl font-bold text-gray-800 mb-2">VocabMaster</h1>
+          <h1 className="text-3xl font-bold text-gray-800 mb-2">Wordify</h1>
           <p className="text-gray-600">Enhance your vocabulary with our interactive quiz platform</p>
         </div>
 
